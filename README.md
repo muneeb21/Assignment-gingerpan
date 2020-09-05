@@ -30,7 +30,7 @@ A simple Restful API which returns the details of all the orders as per user
 
 **Screenshots**
 
-![alt text](https://github.com/muneeb21/Assignment-gingerpan/tree/master/assets/screenshots/assignment_image1.png?raw=true)
+![alt text](https://github.com/muneeb21/Assignment-gingerpan/tree/master/screenshots/assignment_image1.png?raw=true)
 
 
 
