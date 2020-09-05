@@ -21,7 +21,7 @@ A simple Restful API which returns the details of all the orders as per user
 
 **Key point**
 
-- Enter the users and orders mentioned in the table first given first.(Postman can me used for it)
+- Enter the users and orders mentioned in the table first given first.(Postman can be used for it)
 
 **Model Schemas**
 
@@ -29,7 +29,6 @@ A simple Restful API which returns the details of all the orders as per user
 - Order collection (for entering order details)
 
 **Screenshots**
-
 ![alt text](https://github.com/muneeb21/Assignment-gingerpan/blob/master/screenshots/assignment_image1.png?raw=true)
 
 
