@@ -1,3 +1,5 @@
+// Setting up mongoose
+
 const mongoose = require('mongoose');
 
 mongoose.connect('mongodb://localhost/gingerpan');

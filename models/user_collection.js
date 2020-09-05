@@ -1,3 +1,5 @@
+// Schema for user collection
+
 const mongoose = require('mongoose');
 
 

@@ -1,3 +1,4 @@
+// Schema for order collection
 const mongoose = require('mongoose');
 
 
