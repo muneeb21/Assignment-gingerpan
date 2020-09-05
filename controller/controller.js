@@ -130,6 +130,7 @@ module.exports.update=async function(req,res){
     }
     // return the result
     return res.status(200).json({
+        success:"true",
         message:
             "Successfully Updated",
     });
